@@ -113,3 +113,16 @@ A confirmation screen provides a report ID and status.
              🛡️ Protect
                   ↓
               🚨 Report
+
+
+---
+
+## 🚀 Getting Started
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/shivsahoo2020-hue/cybershield.git
+cd cybershield
+npm install
+npm run dev
